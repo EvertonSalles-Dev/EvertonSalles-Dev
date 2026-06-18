@@ -53,23 +53,23 @@ Conquistar uma oportunidade como Desenvolvedor Front-End Jr ou Estagiário.
 
 # 💻 Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,mysql,git,github,docker,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,mysql,docker,git,github,vscode,figma"/>
 
-</p>
+</div>
 
 ---
 
 # 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonSalles-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EvertonSalles-Dev&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonSalles-Dev&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonSalles-Dev&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
@@ -132,12 +132,11 @@ Conquistar uma oportunidade como Desenvolvedor Front-End Jr ou Estagiário.
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=EvertonSalles-Dev&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=EvertonSalles-Dev&style=for-the-badge&color=0e75b6"/>
 
-</p>
-
+</div>
 ---
 
 <p align="center">
