@@ -97,7 +97,7 @@ Conquistar uma oportunidade como Desenvolvedor Front-End Jr ou Estagiário.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EvertonSalles-Dev&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=EvertonSalles-Dev&theme=tokyonight&column=4"/>
 
 </p>
 
