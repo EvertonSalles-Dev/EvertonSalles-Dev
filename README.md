@@ -75,10 +75,10 @@ Conquistar uma oportunidade como Desenvolvedor Front-End Jr ou Estagiário.
 
 # 🔥 Sequência de Contribuições
 
+## 🐍 Contribuições
+
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EvertonSalles-Dev&theme=tokyonight"/>
-
+  <img src="https://raw.githubusercontent.com/EvertonSalles-Dev/EvertonSalles-Dev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
